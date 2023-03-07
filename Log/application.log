@@ -1,0 +1,1363 @@
+[DEBUG] 2023-02-06 13:28:47.882 [main] TestNGRunner - chromeis launched Successfully
+[INFO ] 2023-02-06 13:28:47.894 [main] TestNGRunner - In testcase 20
+[DEBUG] 2023-02-06 15:34:10.290 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-06 15:34:10.301 [main] TestNGRunner - In testcase 6
+[INFO ] 2023-02-06 15:34:12.691 [main] Homepage - HomePage is Displayed properly
+[DEBUG] 2023-02-06 15:43:35.494 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-06 15:43:35.505 [main] TestNGRunner - In testcase 1
+[INFO ] 2023-02-06 15:43:37.875 [main] Homepage - HomePage is Displayed properly
+[DEBUG] 2023-02-06 15:45:12.053 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-06 15:45:12.064 [main] TestNGRunner - In testcase 1
+[INFO ] 2023-02-06 15:45:14.487 [main] Homepage - HomePage is Displayed properly
+[DEBUG] 2023-02-06 15:54:03.682 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-06 15:54:03.690 [main] TestNGRunner - In testcase 12
+[INFO ] 2023-02-06 15:54:16.671 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-02-06 19:06:24.740 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-06 19:06:24.757 [main] TestNGRunner - In testcase 19
+[INFO ] 2023-02-06 19:06:41.952 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-02-06 19:13:33.050 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-06 19:13:33.059 [main] TestNGRunner - In testcase 19
+[INFO ] 2023-02-06 19:13:48.965 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-02-06 19:23:41.618 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-06 19:23:41.641 [main] TestNGRunner - In testcase 19
+[INFO ] 2023-02-06 19:23:55.947 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-02-06 19:27:01.210 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-06 19:27:01.220 [main] TestNGRunner - In testcase 19
+[INFO ] 2023-02-06 19:27:15.179 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-02-06 19:28:47.756 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-06 19:28:47.778 [main] TestNGRunner - In testcase 19
+[INFO ] 2023-02-06 19:29:04.659 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-02-06 20:44:43.712 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-06 20:44:43.814 [main] TestNGRunner - In testcase 19
+[INFO ] 2023-02-06 20:44:58.026 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-02-06 20:52:42.715 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-06 20:52:42.723 [main] TestNGRunner - In testcase 19
+[INFO ] 2023-02-06 20:52:55.574 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-02-06 20:54:35.344 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-06 20:54:35.353 [main] TestNGRunner - In testcase 19
+[INFO ] 2023-02-06 20:54:48.272 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-02-06 20:55:35.064 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-06 20:55:35.078 [main] TestNGRunner - In testcase 19
+[INFO ] 2023-02-06 20:55:48.215 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-02-06 20:56:36.474 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-06 20:56:36.486 [main] TestNGRunner - In testcase 19
+[INFO ] 2023-02-06 20:56:49.388 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-02-06 21:06:34.881 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-06 21:06:34.890 [main] TestNGRunner - In testcase 19
+[INFO ] 2023-02-06 21:06:47.678 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-02-06 21:11:52.643 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-06 21:11:52.651 [main] TestNGRunner - In testcase 19
+[INFO ] 2023-02-06 21:12:05.582 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-02-06 21:13:25.980 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-06 21:13:25.989 [main] TestNGRunner - In testcase 19
+[INFO ] 2023-02-06 21:13:38.839 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-02-06 21:15:39.370 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-06 21:15:39.377 [main] TestNGRunner - In testcase 19
+[INFO ] 2023-02-06 21:15:52.260 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-02-12 15:05:15.331 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-12 15:05:15.706 [main] TestNGRunner - In testcase 1
+[DEBUG] 2023-02-12 15:06:43.416 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-12 15:06:43.439 [main] TestNGRunner - In testcase 1
+[INFO ] 2023-02-12 15:06:46.026 [main] Homepage - HomePage is Displayed properly
+[DEBUG] 2023-02-12 15:10:02.015 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-12 15:10:02.027 [main] TestNGRunner - In testcase 2
+[INFO ] 2023-02-12 15:10:04.682 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-02-12 15:10:12.495 [main] GoogleApp - On Google Apps 
+[DEBUG] 2023-02-12 16:19:22.355 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-12 16:19:22.380 [main] TestNGRunner - In testcase 4
+[INFO ] 2023-02-12 16:19:24.822 [main] Homepage - HomePage is Displayed properly
+[DEBUG] 2023-02-12 16:20:36.422 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-12 16:20:36.431 [main] TestNGRunner - In testcase 4
+[INFO ] 2023-02-12 16:20:38.819 [main] Homepage - HomePage is Displayed properly
+[DEBUG] 2023-02-12 16:21:23.397 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-12 16:21:23.429 [main] TestNGRunner - In testcase 4
+[INFO ] 2023-02-12 16:21:25.973 [main] Homepage - HomePage is Displayed properly
+[DEBUG] 2023-02-12 16:22:05.852 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-12 16:22:05.866 [main] TestNGRunner - In testcase 4
+[INFO ] 2023-02-12 16:22:08.256 [main] Homepage - HomePage is Displayed properly
+[DEBUG] 2023-02-12 16:23:29.402 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-12 16:23:29.411 [main] TestNGRunner - In testcase 4
+[INFO ] 2023-02-12 16:23:31.804 [main] Homepage - HomePage is Displayed properly
+[DEBUG] 2023-02-12 16:24:40.757 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-12 16:24:40.768 [main] TestNGRunner - In testcase 3
+[INFO ] 2023-02-12 16:24:43.112 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-02-12 16:24:49.526 [main] GoogleAppVerify - On Google Account
+[INFO ] 2023-02-12 16:24:56.566 [main] GoogleAppVerify - On Google Search
+[DEBUG] 2023-02-12 16:29:14.506 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-12 16:29:14.515 [main] TestNGRunner - In testcase 3
+[INFO ] 2023-02-12 16:29:16.887 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-02-12 16:29:22.806 [main] GoogleAppVerify - On Google Account
+[INFO ] 2023-02-12 16:29:29.235 [main] GoogleAppVerify - On Google Search
+[INFO ] 2023-02-12 16:29:36.620 [main] GoogleAppVerify - On Google Map
+[INFO ] 2023-02-12 16:29:48.519 [main] GoogleAppVerify - On Google Youtube
+[INFO ] 2023-02-12 16:29:55.523 [main] GoogleAppVerify - On Google play
+[INFO ] 2023-02-12 16:30:02.350 [main] GoogleAppVerify - On Google News
+[INFO ] 2023-02-12 16:30:10.012 [main] GoogleAppVerify - On Gmail
+[INFO ] 2023-02-12 16:30:16.788 [main] GoogleAppVerify - On Drive
+[INFO ] 2023-02-12 16:30:23.349 [main] GoogleAppVerify - On Translate
+[INFO ] 2023-02-12 16:30:30.786 [main] GoogleAppVerify - On Photos
+[DEBUG] 2023-02-12 16:30:54.062 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-12 16:30:54.079 [main] TestNGRunner - In testcase 4
+[INFO ] 2023-02-12 16:30:56.542 [main] Homepage - HomePage is Displayed properly
+[DEBUG] 2023-02-12 16:35:37.359 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-12 16:35:37.367 [main] TestNGRunner - In testcase 4
+[INFO ] 2023-02-12 16:35:39.766 [main] Homepage - HomePage is Displayed properly
+[DEBUG] 2023-02-12 16:37:05.185 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-12 16:37:05.200 [main] TestNGRunner - In testcase 4
+[INFO ] 2023-02-12 16:37:07.596 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-02-12 16:37:24.196 [main] GoogleAppSignUp - logged successfully
+[DEBUG] 2023-02-12 16:37:43.467 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-12 16:37:43.481 [main] TestNGRunner - In testcase 5
+[INFO ] 2023-02-12 16:37:45.969 [main] Homepage - HomePage is Displayed properly
+[DEBUG] 2023-02-12 16:39:32.239 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-12 16:39:32.249 [main] TestNGRunner - In testcase 6
+[INFO ] 2023-02-12 16:39:34.640 [main] Homepage - HomePage is Displayed properly
+[DEBUG] 2023-02-12 16:39:52.554 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-12 16:39:52.575 [main] TestNGRunner - In testcase 5
+[INFO ] 2023-02-12 16:39:55.090 [main] Homepage - HomePage is Displayed properly
+[DEBUG] 2023-02-12 16:41:11.676 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-12 16:41:11.684 [main] TestNGRunner - In testcase 5
+[INFO ] 2023-02-12 16:41:14.081 [main] Homepage - HomePage is Displayed properly
+[DEBUG] 2023-02-12 16:42:22.170 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-12 16:42:22.181 [main] TestNGRunner - In testcase 5
+[INFO ] 2023-02-12 16:42:24.553 [main] Homepage - HomePage is Displayed properly
+[DEBUG] 2023-02-12 16:45:01.910 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-12 16:45:01.922 [main] TestNGRunner - In testcase 5
+[INFO ] 2023-02-12 16:45:04.273 [main] Homepage - HomePage is Displayed properly
+[DEBUG] 2023-02-12 16:47:22.053 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-12 16:47:22.067 [main] TestNGRunner - In testcase 7
+[INFO ] 2023-02-12 16:47:24.465 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-02-12 16:47:31.974 [main] GoogleSearch - search is successful
+[DEBUG] 2023-02-12 16:47:35.331 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-12 16:47:35.335 [main] TestNGRunner - In testcase 7
+[INFO ] 2023-02-12 16:47:37.643 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-02-12 16:47:44.818 [main] GoogleSearch - search is successful
+[DEBUG] 2023-02-12 16:48:07.928 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-12 16:48:07.954 [main] TestNGRunner - In testcase 8
+[INFO ] 2023-02-12 16:48:10.426 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-02-12 16:48:26.685 [main] GoogleProducts - Check ScreenShots
+[DEBUG] 2023-02-12 16:50:32.280 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-12 16:50:32.294 [main] TestNGRunner - In testcase 9
+[INFO ] 2023-02-12 16:50:48.579 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-02-12 16:55:27.594 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-12 16:55:27.603 [main] TestNGRunner - In testcase 9
+[INFO ] 2023-02-12 16:55:43.468 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-02-12 16:58:02.583 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-12 16:58:02.590 [main] TestNGRunner - In testcase 9
+[INFO ] 2023-02-12 16:58:15.391 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-02-12 16:58:40.723 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-12 16:58:40.741 [main] TestNGRunner - In testcase 10
+[INFO ] 2023-02-12 16:58:54.476 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-02-12 16:59:27.876 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-12 16:59:27.893 [main] TestNGRunner - In testcase 11
+[INFO ] 2023-02-12 16:59:41.270 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-02-12 17:00:07.889 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-12 17:00:07.906 [main] TestNGRunner - In testcase 12
+[INFO ] 2023-02-12 17:00:20.807 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-02-12 17:00:47.552 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-12 17:00:47.571 [main] TestNGRunner - In testcase 13
+[INFO ] 2023-02-12 17:01:01.069 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-02-12 17:01:30.927 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-12 17:01:30.942 [main] TestNGRunner - In testcase 13
+[INFO ] 2023-02-12 17:01:47.303 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-02-12 17:02:46.945 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-12 17:02:46.953 [main] TestNGRunner - In testcase 14
+[INFO ] 2023-02-12 17:03:00.069 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-02-12 17:03:37.963 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-12 17:03:37.982 [main] TestNGRunner - In testcase 15
+[INFO ] 2023-02-12 17:03:53.441 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-02-12 17:13:09.496 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-12 17:13:09.531 [main] TestNGRunner - In testcase 11
+[INFO ] 2023-02-12 17:13:26.992 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-02-12 17:13:40.753 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-12 17:13:40.759 [main] TestNGRunner - In testcase 12
+[INFO ] 2023-02-12 17:13:58.191 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-02-12 17:14:16.164 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-12 17:14:16.170 [main] TestNGRunner - In testcase 13
+[INFO ] 2023-02-12 17:14:30.894 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-02-12 17:14:46.066 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-12 17:14:46.070 [main] TestNGRunner - In testcase 14
+[INFO ] 2023-02-12 17:15:01.247 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-02-12 17:15:16.628 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-12 17:15:16.631 [main] TestNGRunner - In testcase 15
+[INFO ] 2023-02-12 17:15:31.126 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-02-12 17:15:48.425 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-12 17:15:48.429 [main] TestNGRunner - In testcase 16
+[INFO ] 2023-02-12 17:16:02.984 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-02-12 17:16:19.353 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-12 17:16:19.356 [main] TestNGRunner - In testcase 17
+[INFO ] 2023-02-12 17:16:34.788 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-02-12 17:16:49.087 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-12 17:16:49.091 [main] TestNGRunner - In testcase 18
+[INFO ] 2023-02-12 17:17:03.519 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-02-12 17:17:28.541 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-12 17:17:28.544 [main] TestNGRunner - In testcase 19
+[INFO ] 2023-02-12 17:17:45.065 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-02-12 17:18:10.540 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-12 17:18:10.544 [main] TestNGRunner - In testcase 20
+[INFO ] 2023-02-12 17:18:24.767 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-02-12 17:18:44.742 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-12 17:18:44.744 [main] TestNGRunner - In testcase 1
+[INFO ] 2023-02-12 17:18:47.231 [main] Homepage - HomePage is Displayed properly
+[DEBUG] 2023-02-12 17:18:52.184 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-12 17:18:52.187 [main] TestNGRunner - In testcase 2
+[INFO ] 2023-02-12 17:18:54.757 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-02-12 17:19:02.731 [main] GoogleApp - On Google Apps 
+[DEBUG] 2023-02-12 17:19:07.067 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-12 17:19:07.069 [main] TestNGRunner - In testcase 3
+[INFO ] 2023-02-12 17:19:09.530 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-02-12 17:19:15.551 [main] GoogleAppVerify - On Google Account
+[INFO ] 2023-02-12 17:19:22.388 [main] GoogleAppVerify - On Google Search
+[INFO ] 2023-02-12 17:19:29.469 [main] GoogleAppVerify - On Google Map
+[INFO ] 2023-02-12 17:19:41.878 [main] GoogleAppVerify - On Google Youtube
+[INFO ] 2023-02-12 17:19:48.911 [main] GoogleAppVerify - On Google play
+[INFO ] 2023-02-12 17:19:55.656 [main] GoogleAppVerify - On Google News
+[INFO ] 2023-02-12 17:20:03.195 [main] GoogleAppVerify - On Gmail
+[INFO ] 2023-02-12 17:20:10.153 [main] GoogleAppVerify - On Drive
+[INFO ] 2023-02-12 17:20:16.886 [main] GoogleAppVerify - On Translate
+[INFO ] 2023-02-12 17:20:24.374 [main] GoogleAppVerify - On Photos
+[DEBUG] 2023-02-12 17:20:30.124 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-12 17:20:30.128 [main] TestNGRunner - In testcase 4
+[INFO ] 2023-02-12 17:20:32.822 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-02-12 17:20:51.364 [main] GoogleAppSignUp - logged successfully
+[DEBUG] 2023-02-12 17:20:56.402 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-12 17:20:56.405 [main] TestNGRunner - In testcase 5
+[INFO ] 2023-02-12 17:20:58.900 [main] Homepage - HomePage is Displayed properly
+[DEBUG] 2023-02-12 17:21:20.446 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-12 17:21:20.449 [main] TestNGRunner - In testcase 6
+[INFO ] 2023-02-12 17:21:22.834 [main] Homepage - HomePage is Displayed properly
+[DEBUG] 2023-02-12 17:21:27.201 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-12 17:21:27.204 [main] TestNGRunner - In testcase 7
+[INFO ] 2023-02-12 17:21:29.593 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-02-12 17:21:37.620 [main] GoogleSearch - search is successful
+[DEBUG] 2023-02-12 17:21:41.777 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-12 17:21:41.780 [main] TestNGRunner - In testcase 7
+[INFO ] 2023-02-12 17:21:44.189 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-02-12 17:21:52.584 [main] GoogleSearch - search is successful
+[DEBUG] 2023-02-12 17:21:57.367 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-12 17:21:57.370 [main] TestNGRunner - In testcase 8
+[INFO ] 2023-02-12 17:21:59.775 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-02-12 17:22:16.362 [main] GoogleProducts - Check ScreenShots
+[DEBUG] 2023-02-12 17:22:20.428 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-12 17:22:20.431 [main] TestNGRunner - In testcase 9
+[INFO ] 2023-02-12 17:22:36.771 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-02-12 17:22:47.014 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-12 17:22:47.018 [main] TestNGRunner - In testcase 10
+[INFO ] 2023-02-12 17:23:03.355 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-02-13 17:03:56.993 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 17:03:57.102 [main] TestNGRunner - In testcase 1
+[INFO ] 2023-02-13 17:03:59.605 [main] Homepage - HomePage is Displayed properly
+[DEBUG] 2023-02-13 17:04:03.383 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 17:04:03.386 [main] TestNGRunner - In testcase 2
+[INFO ] 2023-02-13 17:04:05.747 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-02-13 17:04:13.510 [main] GoogleApp - On Google Apps 
+[DEBUG] 2023-02-13 17:04:16.888 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 17:04:16.891 [main] TestNGRunner - In testcase 3
+[INFO ] 2023-02-13 17:04:19.244 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-02-13 17:04:25.174 [main] GoogleAppVerify - On Google Account
+[INFO ] 2023-02-13 17:04:31.127 [main] GoogleAppVerify - On Google Search
+[INFO ] 2023-02-13 17:04:37.573 [main] GoogleAppVerify - On Google Map
+[INFO ] 2023-02-13 17:04:50.255 [main] GoogleAppVerify - On Google Youtube
+[INFO ] 2023-02-13 17:04:57.200 [main] GoogleAppVerify - On Google play
+[INFO ] 2023-02-13 17:05:03.843 [main] GoogleAppVerify - On Google News
+[INFO ] 2023-02-13 17:05:10.995 [main] GoogleAppVerify - On Gmail
+[INFO ] 2023-02-13 17:05:18.006 [main] GoogleAppVerify - On Drive
+[INFO ] 2023-02-13 17:05:24.555 [main] GoogleAppVerify - On Translate
+[INFO ] 2023-02-13 17:05:31.672 [main] GoogleAppVerify - On Photos
+[DEBUG] 2023-02-13 17:05:35.953 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 17:05:35.956 [main] TestNGRunner - In testcase 4
+[INFO ] 2023-02-13 17:05:38.351 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-02-13 17:05:55.904 [main] GoogleAppSignUp - logged successfully
+[DEBUG] 2023-02-13 17:05:58.816 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 17:05:58.820 [main] TestNGRunner - In testcase 5
+[INFO ] 2023-02-13 17:06:01.207 [main] Homepage - HomePage is Displayed properly
+[DEBUG] 2023-02-13 17:06:18.887 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 17:06:18.888 [main] TestNGRunner - In testcase 6
+[INFO ] 2023-02-13 17:06:21.269 [main] Homepage - HomePage is Displayed properly
+[DEBUG] 2023-02-13 17:06:25.230 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 17:06:25.233 [main] TestNGRunner - In testcase 7
+[INFO ] 2023-02-13 17:06:27.579 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-02-13 17:06:35.302 [main] GoogleSearch - search is successful
+[DEBUG] 2023-02-13 17:06:39.039 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 17:06:39.041 [main] TestNGRunner - In testcase 7
+[INFO ] 2023-02-13 17:06:41.422 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-02-13 17:06:48.662 [main] GoogleSearch - search is successful
+[DEBUG] 2023-02-13 17:06:52.291 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 17:06:52.293 [main] TestNGRunner - In testcase 8
+[INFO ] 2023-02-13 17:06:54.674 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-02-13 17:07:11.164 [main] GoogleProducts - Check ScreenShots
+[DEBUG] 2023-02-13 17:07:15.119 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 17:07:15.126 [main] TestNGRunner - In testcase 9
+[INFO ] 2023-02-13 17:07:28.901 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-02-13 17:07:36.905 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 17:07:36.907 [main] TestNGRunner - In testcase 10
+[INFO ] 2023-02-13 17:07:53.262 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-02-13 17:08:02.747 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 17:08:02.750 [main] TestNGRunner - In testcase 11
+[INFO ] 2023-02-13 17:08:18.382 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-02-13 17:08:28.798 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 17:08:28.802 [main] TestNGRunner - In testcase 12
+[INFO ] 2023-02-13 17:08:43.304 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-02-13 17:08:55.541 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 17:08:55.544 [main] TestNGRunner - In testcase 13
+[INFO ] 2023-02-13 17:09:12.355 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-02-13 17:09:24.627 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 17:09:24.629 [main] TestNGRunner - In testcase 14
+[INFO ] 2023-02-13 17:09:39.350 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-02-13 17:10:00.571 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 17:10:00.572 [main] TestNGRunner - In testcase 15
+[INFO ] 2023-02-13 17:10:13.564 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-02-13 17:10:27.522 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 17:10:27.525 [main] TestNGRunner - In testcase 16
+[INFO ] 2023-02-13 17:10:44.252 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-02-13 17:10:53.783 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 17:10:53.786 [main] TestNGRunner - In testcase 17
+[INFO ] 2023-02-13 17:11:10.411 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-02-13 17:11:23.305 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 17:11:23.307 [main] TestNGRunner - In testcase 18
+[INFO ] 2023-02-13 17:11:37.855 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-02-13 17:11:57.041 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 17:11:57.047 [main] TestNGRunner - In testcase 19
+[INFO ] 2023-02-13 17:12:11.118 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-02-13 17:12:33.839 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 17:12:33.840 [main] TestNGRunner - In testcase 20
+[INFO ] 2023-02-13 17:12:49.771 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-02-13 18:16:43.609 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 18:16:43.620 [main] TestNGRunner - In testcase 5
+[INFO ] 2023-02-13 18:16:46.119 [main] Homepage - HomePage is Displayed properly
+[DEBUG] 2023-02-13 18:56:03.948 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 18:56:03.959 [main] TestNGRunner - In testcase 1
+[INFO ] 2023-02-13 18:56:06.331 [main] Homepage - HomePage is Displayed properly
+[DEBUG] 2023-02-13 18:56:09.111 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 18:56:09.114 [main] TestNGRunner - In testcase 2
+[INFO ] 2023-02-13 18:56:11.462 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-02-13 18:56:23.438 [main] GoogleApp - In Google Apps 
+[DEBUG] 2023-02-13 18:56:26.114 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 18:56:26.117 [main] TestNGRunner - In testcase 3
+[INFO ] 2023-02-13 18:56:28.681 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-02-13 18:56:34.788 [main] GoogleAppVerify - On Google Account
+[INFO ] 2023-02-13 18:56:41.174 [main] GoogleAppVerify - On Google Search
+[INFO ] 2023-02-13 18:56:47.675 [main] GoogleAppVerify - On Google Map
+[INFO ] 2023-02-13 18:57:00.198 [main] GoogleAppVerify - On Google Youtube
+[INFO ] 2023-02-13 18:57:06.483 [main] GoogleAppVerify - On Google play
+[INFO ] 2023-02-13 18:57:13.155 [main] GoogleAppVerify - On Google News
+[INFO ] 2023-02-13 18:57:20.258 [main] GoogleAppVerify - On Gmail
+[INFO ] 2023-02-13 18:57:27.126 [main] GoogleAppVerify - On Drive
+[INFO ] 2023-02-13 18:57:33.419 [main] GoogleAppVerify - On Translate
+[INFO ] 2023-02-13 18:57:40.295 [main] GoogleAppVerify - On Photos
+[DEBUG] 2023-02-13 18:57:44.587 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 18:57:44.589 [main] TestNGRunner - In testcase 4
+[INFO ] 2023-02-13 18:57:46.908 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-02-13 18:58:04.750 [main] GoogleAppSignUp - logged successfully
+[DEBUG] 2023-02-13 18:58:07.428 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 18:58:07.432 [main] TestNGRunner - In testcase 5
+[INFO ] 2023-02-13 18:58:09.805 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-02-13 18:58:24.299 [main] LanguageCheck - Language is set successfully
+[DEBUG] 2023-02-13 18:58:27.398 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 18:58:27.403 [main] TestNGRunner - In testcase 6
+[INFO ] 2023-02-13 18:58:29.821 [main] Homepage - HomePage is Displayed properly
+[DEBUG] 2023-02-13 18:58:33.663 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 18:58:33.666 [main] TestNGRunner - In testcase 7
+[INFO ] 2023-02-13 18:58:36.039 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-02-13 18:58:43.488 [main] GoogleSearch - search is successful
+[DEBUG] 2023-02-13 18:58:46.343 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 18:58:46.345 [main] TestNGRunner - In testcase 7
+[INFO ] 2023-02-13 18:58:48.717 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-02-13 18:58:55.468 [main] GoogleSearch - search is successful
+[DEBUG] 2023-02-13 18:58:58.805 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 18:58:58.808 [main] TestNGRunner - In testcase 8
+[INFO ] 2023-02-13 18:59:01.150 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-02-13 18:59:16.994 [main] GoogleProducts - Check ScreenShots
+[DEBUG] 2023-02-13 18:59:19.867 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 18:59:19.869 [main] TestNGRunner - In testcase 9
+[INFO ] 2023-02-13 18:59:27.676 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-02-13 18:59:31.785 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-02-13 18:59:33.785 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-02-13 18:59:38.791 [main] GmailLogin -  Gmail logo,inbox,starred,snooze.sent.draft present
+[DEBUG] 2023-02-13 18:59:41.459 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 18:59:41.460 [main] TestNGRunner - In testcase 10
+[INFO ] 2023-02-13 18:59:48.140 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-02-13 18:59:52.497 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-02-13 18:59:54.503 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-02-13 18:59:58.842 [main] GmailLogin -  Gmail logo,inbox,starred,snooze.sent.draft present
+[INFO ] 2023-02-13 18:59:58.843 [main] TotalEmails - Total Emails 
+[DEBUG] 2023-02-13 19:00:04.888 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 19:00:04.890 [main] TestNGRunner - In testcase 11
+[INFO ] 2023-02-13 19:00:13.863 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-02-13 19:00:20.608 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-02-13 19:00:22.618 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-02-13 19:00:27.679 [main] GmailLogin -  Gmail logo,inbox,starred,snooze.sent.draft present
+[INFO ] 2023-02-13 19:00:29.836 [main] StarredEmail - Starred Emails
+[DEBUG] 2023-02-13 19:00:33.322 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 19:00:33.325 [main] TestNGRunner - In testcase 12
+[INFO ] 2023-02-13 19:00:40.512 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-02-13 19:00:46.963 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-02-13 19:00:48.972 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-02-13 19:00:52.535 [main] GmailLogin -  Gmail logo,inbox,starred,snooze.sent.draft present
+[DEBUG] 2023-02-13 19:00:56.463 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 19:00:56.464 [main] TestNGRunner - In testcase 13
+[INFO ] 2023-02-13 19:01:03.543 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-02-13 19:01:10.337 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-02-13 19:01:12.342 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-02-13 19:01:17.257 [main] GmailLogin -  Gmail logo,inbox,starred,snooze.sent.draft present
+[INFO ] 2023-02-13 19:01:21.674 [main] ComposeEmail - Email compose working
+[DEBUG] 2023-02-13 19:01:24.461 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 19:01:24.463 [main] TestNGRunner - In testcase 14
+[INFO ] 2023-02-13 19:01:32.003 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-02-13 19:01:38.304 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-02-13 19:01:40.309 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-02-13 19:01:44.740 [main] GmailLogin -  Gmail logo,inbox,starred,snooze.sent.draft present
+[INFO ] 2023-02-13 19:01:47.440 [main] SendEmail - Added to
+[INFO ] 2023-02-13 19:01:50.326 [main] SendEmail - Added cc
+[INFO ] 2023-02-13 19:01:52.677 [main] SendEmail - Added bcc
+[INFO ] 2023-02-13 19:01:59.355 [main] SendEmail - Email Sent
+[DEBUG] 2023-02-13 19:02:02.038 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 19:02:02.040 [main] TestNGRunner - In testcase 15
+[INFO ] 2023-02-13 19:02:08.713 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-02-13 19:02:14.891 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-02-13 19:02:16.904 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-02-13 19:02:21.925 [main] GmailLogin -  Gmail logo,inbox,starred,snooze.sent.draft present
+[INFO ] 2023-02-13 19:02:21.926 [main] ReceivedMails - Checking received mail
+[DEBUG] 2023-02-13 19:02:28.403 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 19:02:28.405 [main] TestNGRunner - In testcase 16
+[INFO ] 2023-02-13 19:02:35.225 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-02-13 19:02:42.214 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-02-13 19:02:44.222 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-02-13 19:02:50.040 [main] GmailLogin -  Gmail logo,inbox,starred,snooze.sent.draft present
+[INFO ] 2023-02-13 19:02:52.500 [main] MailsWithAttachments - Emails with attachments found
+[DEBUG] 2023-02-13 19:02:55.790 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 19:02:55.792 [main] TestNGRunner - In testcase 17
+[INFO ] 2023-02-13 19:03:03.053 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-02-13 19:03:07.556 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-02-13 19:03:09.577 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-02-13 19:03:14.652 [main] GmailLogin -  Gmail logo,inbox,starred,snooze.sent.draft present
+[INFO ] 2023-02-13 19:03:19.372 [main] Settings - Settings on Gmail are present
+[DEBUG] 2023-02-13 19:03:22.189 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 19:03:22.192 [main] TestNGRunner - In testcase 18
+[INFO ] 2023-02-13 19:03:29.074 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-02-13 19:03:35.981 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-02-13 19:03:37.989 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-02-13 19:03:41.789 [main] GmailLogin -  Gmail logo,inbox,starred,snooze.sent.draft present
+[INFO ] 2023-02-13 19:03:54.379 [main] GmailLabel - New Label has been created
+[DEBUG] 2023-02-13 19:03:57.385 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 19:03:57.387 [main] TestNGRunner - In testcase 19
+[INFO ] 2023-02-13 19:04:04.150 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-02-13 19:04:08.361 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-02-13 19:04:10.370 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-02-13 19:04:13.753 [main] GmailLogin -  Gmail logo,inbox,starred,snooze.sent.draft present
+[DEBUG] 2023-02-13 19:04:33.976 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 19:04:33.977 [main] TestNGRunner - In testcase 20
+[INFO ] 2023-02-13 19:04:40.122 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-02-13 19:04:46.942 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-02-13 19:04:48.950 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-02-13 19:04:52.675 [main] GmailLogin -  Gmail logo,inbox,starred,snooze.sent.draft present
+[INFO ] 2023-02-13 19:04:52.677 [main] SignOut - Gmail sign out
+[DEBUG] 2023-02-13 19:06:45.168 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 19:06:45.178 [main] TestNGRunner - In testcase 12
+[INFO ] 2023-02-13 19:06:51.553 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-02-13 19:06:58.141 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-02-13 19:07:00.154 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-02-13 19:07:04.617 [main] GmailLogin -  Gmail logo,inbox,starred,snooze.sent.draft present
+[DEBUG] 2023-02-13 19:07:35.792 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 19:07:35.814 [main] TestNGRunner - In testcase 20
+[INFO ] 2023-02-13 19:07:43.322 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-02-13 19:07:47.742 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-02-13 19:07:49.744 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-02-13 19:07:53.240 [main] GmailLogin -  Gmail logo,inbox,starred,snooze.sent.draft present
+[INFO ] 2023-02-13 19:07:53.244 [main] SignOut - Gmail sign out
+[DEBUG] 2023-02-13 19:09:03.053 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 19:09:03.064 [main] TestNGRunner - In testcase 20
+[INFO ] 2023-02-13 19:09:09.856 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-02-13 19:09:14.201 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-02-13 19:09:16.209 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-02-13 19:09:19.992 [main] GmailLogin -  Gmail logo,inbox,starred,snooze.sent.draft present
+[INFO ] 2023-02-13 19:09:19.994 [main] SignOut - Gmail sign out
+[DEBUG] 2023-02-13 19:11:46.105 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 19:11:46.113 [main] TestNGRunner - In testcase 20
+[INFO ] 2023-02-13 19:11:52.459 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-02-13 19:11:56.981 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-02-13 19:11:58.984 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-02-13 19:12:04.857 [main] GmailLogin -  Gmail logo,inbox,starred,snooze.sent.draft present
+[INFO ] 2023-02-13 19:12:04.861 [main] SignOut - Gmail sign out
+[INFO ] 2023-02-13 19:12:09.511 [main] SignOut - Gmail sign out
+[DEBUG] 2023-02-13 19:14:25.968 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 19:14:25.983 [main] TestNGRunner - In testcase 12
+[INFO ] 2023-02-13 19:14:32.906 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-02-13 19:14:37.429 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-02-13 19:14:39.442 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-02-13 19:14:42.242 [main] GmailLogin -  Gmail logo,inbox,starred,snooze.sent.draft present
+[DEBUG] 2023-02-13 19:17:20.536 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 19:17:20.547 [main] TestNGRunner - In testcase 1
+[INFO ] 2023-02-13 19:17:22.890 [main] Homepage - HomePage is Displayed properly
+[DEBUG] 2023-02-13 19:17:25.480 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 19:17:25.482 [main] TestNGRunner - In testcase 2
+[INFO ] 2023-02-13 19:17:27.785 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-02-13 19:17:35.333 [main] GoogleApp - In Google Apps 
+[DEBUG] 2023-02-13 19:17:37.637 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 19:17:37.639 [main] TestNGRunner - In testcase 3
+[INFO ] 2023-02-13 19:17:39.954 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-02-13 19:17:45.701 [main] GoogleAppVerify - On Google Account
+[INFO ] 2023-02-13 19:17:52.008 [main] GoogleAppVerify - On Google Search
+[INFO ] 2023-02-13 19:17:58.156 [main] GoogleAppVerify - On Google Map
+[INFO ] 2023-02-13 19:18:10.113 [main] GoogleAppVerify - On Google Youtube
+[INFO ] 2023-02-13 19:18:16.458 [main] GoogleAppVerify - On Google play
+[INFO ] 2023-02-13 19:18:22.584 [main] GoogleAppVerify - On Google News
+[INFO ] 2023-02-13 19:18:29.714 [main] GoogleAppVerify - On Gmail
+[INFO ] 2023-02-13 19:18:36.549 [main] GoogleAppVerify - On Drive
+[INFO ] 2023-02-13 19:18:42.487 [main] GoogleAppVerify - On Translate
+[INFO ] 2023-02-13 19:18:48.907 [main] GoogleAppVerify - On Photos
+[DEBUG] 2023-02-13 19:18:51.886 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 19:18:51.888 [main] TestNGRunner - In testcase 4
+[INFO ] 2023-02-13 19:18:54.253 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-02-13 19:19:11.631 [main] GoogleAppSignUp - logged successfully
+[DEBUG] 2023-02-13 19:19:14.524 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 19:19:14.526 [main] TestNGRunner - In testcase 5
+[INFO ] 2023-02-13 19:19:16.874 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-02-13 19:19:30.741 [main] LanguageCheck - Language is set successfully
+[DEBUG] 2023-02-13 19:19:33.104 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 19:19:33.106 [main] TestNGRunner - In testcase 6
+[INFO ] 2023-02-13 19:19:35.431 [main] Homepage - HomePage is Displayed properly
+[DEBUG] 2023-02-13 19:19:38.338 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 19:19:38.340 [main] TestNGRunner - In testcase 7
+[INFO ] 2023-02-13 19:19:40.718 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-02-13 19:19:47.515 [main] GoogleSearch - search is successful
+[DEBUG] 2023-02-13 19:19:50.110 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 19:19:50.112 [main] TestNGRunner - In testcase 7
+[INFO ] 2023-02-13 19:19:52.427 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-02-13 19:19:58.394 [main] GoogleSearch - search is successful
+[DEBUG] 2023-02-13 19:20:01.052 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 19:20:01.054 [main] TestNGRunner - In testcase 8
+[INFO ] 2023-02-13 19:20:03.418 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-02-13 19:20:18.617 [main] GoogleProducts - Check ScreenShots
+[DEBUG] 2023-02-13 19:20:21.110 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 19:20:21.112 [main] TestNGRunner - In testcase 9
+[INFO ] 2023-02-13 19:20:29.868 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-02-13 19:20:34.294 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-02-13 19:20:36.301 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-02-13 19:20:39.920 [main] GmailLogin -  Gmail logo,inbox,starred,snooze.sent.draft present
+[DEBUG] 2023-02-13 19:20:42.644 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 19:20:42.646 [main] TestNGRunner - In testcase 10
+[INFO ] 2023-02-13 19:20:49.523 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-02-13 19:20:53.660 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-02-13 19:20:55.669 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-02-13 19:20:59.352 [main] GmailLogin -  Gmail logo,inbox,starred,snooze.sent.draft present
+[INFO ] 2023-02-13 19:20:59.353 [main] TotalEmails - Total Emails 
+[DEBUG] 2023-02-13 19:21:04.410 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 19:21:04.412 [main] TestNGRunner - In testcase 11
+[INFO ] 2023-02-13 19:21:12.267 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-02-13 19:21:16.746 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-02-13 19:21:18.751 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-02-13 19:21:22.236 [main] GmailLogin -  Gmail logo,inbox,starred,snooze.sent.draft present
+[INFO ] 2023-02-13 19:21:24.348 [main] StarredEmail - Starred Emails
+[DEBUG] 2023-02-13 19:21:27.203 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 19:21:27.205 [main] TestNGRunner - In testcase 12
+[INFO ] 2023-02-13 19:21:34.108 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-02-13 19:21:38.327 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-02-13 19:21:40.340 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-02-13 19:21:46.658 [main] GmailLogin -  Gmail logo,inbox,starred,snooze.sent.draft present
+[DEBUG] 2023-02-13 19:21:53.775 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 19:21:53.777 [main] TestNGRunner - In testcase 13
+[INFO ] 2023-02-13 19:22:00.837 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-02-13 19:22:04.976 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-02-13 19:22:06.987 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-02-13 19:22:10.175 [main] GmailLogin -  Gmail logo,inbox,starred,snooze.sent.draft present
+[INFO ] 2023-02-13 19:22:14.377 [main] ComposeEmail - Email compose working
+[DEBUG] 2023-02-13 19:22:16.922 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 19:22:16.924 [main] TestNGRunner - In testcase 14
+[INFO ] 2023-02-13 19:22:23.883 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-02-13 19:22:28.053 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-02-13 19:22:30.055 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-02-13 19:22:32.653 [main] GmailLogin -  Gmail logo,inbox,starred,snooze.sent.draft present
+[INFO ] 2023-02-13 19:22:35.011 [main] SendEmail - Added to
+[INFO ] 2023-02-13 19:22:37.311 [main] SendEmail - Added cc
+[INFO ] 2023-02-13 19:22:39.545 [main] SendEmail - Added bcc
+[INFO ] 2023-02-13 19:22:45.951 [main] SendEmail - Email Sent
+[DEBUG] 2023-02-13 19:22:48.387 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 19:22:48.389 [main] TestNGRunner - In testcase 15
+[INFO ] 2023-02-13 19:22:55.196 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-02-13 19:22:59.352 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-02-13 19:23:01.352 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-02-13 19:23:05.164 [main] GmailLogin -  Gmail logo,inbox,starred,snooze.sent.draft present
+[INFO ] 2023-02-13 19:23:05.165 [main] ReceivedMails - Checking received mail
+[DEBUG] 2023-02-13 19:23:11.000 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 19:23:11.002 [main] TestNGRunner - In testcase 16
+[INFO ] 2023-02-13 19:23:18.179 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-02-13 19:23:23.042 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-02-13 19:23:25.046 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-02-13 19:23:28.503 [main] GmailLogin -  Gmail logo,inbox,starred,snooze.sent.draft present
+[INFO ] 2023-02-13 19:23:30.742 [main] MailsWithAttachments - Emails with attachments found
+[DEBUG] 2023-02-13 19:23:33.619 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 19:23:33.621 [main] TestNGRunner - In testcase 17
+[INFO ] 2023-02-13 19:23:41.117 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-02-13 19:23:45.719 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-02-13 19:23:47.725 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-02-13 19:23:51.112 [main] GmailLogin -  Gmail logo,inbox,starred,snooze.sent.draft present
+[INFO ] 2023-02-13 19:23:55.280 [main] Settings - Settings on Gmail are present
+[DEBUG] 2023-02-13 19:23:58.070 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 19:23:58.071 [main] TestNGRunner - In testcase 18
+[INFO ] 2023-02-13 19:24:04.657 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-02-13 19:24:09.049 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-02-13 19:24:11.058 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-02-13 19:24:14.474 [main] GmailLogin -  Gmail logo,inbox,starred,snooze.sent.draft present
+[INFO ] 2023-02-13 19:24:26.799 [main] GmailLabel - New Label has been created
+[DEBUG] 2023-02-13 19:24:29.222 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 19:24:29.224 [main] TestNGRunner - In testcase 19
+[INFO ] 2023-02-13 19:24:36.759 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-02-13 19:24:41.290 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-02-13 19:24:43.295 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-02-13 19:24:46.212 [main] GmailLogin -  Gmail logo,inbox,starred,snooze.sent.draft present
+[DEBUG] 2023-02-13 19:25:04.949 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-13 19:25:04.950 [main] TestNGRunner - In testcase 20
+[INFO ] 2023-02-13 19:25:11.945 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-02-13 19:25:16.049 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-02-13 19:25:18.056 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-02-13 19:25:21.579 [main] GmailLogin -  Gmail logo,inbox,starred,snooze.sent.draft present
+[INFO ] 2023-02-13 19:25:21.580 [main] SignOut - Gmail sign out
+[INFO ] 2023-02-13 19:25:25.178 [main] SignOut - Gmail sign out
+[DEBUG] 2023-02-28 16:16:00.615 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-28 16:16:00.769 [main] TestNGRunner - In testcase 1
+[INFO ] 2023-02-28 16:16:04.996 [main] Homepage - HomePage is Displayed properly
+[DEBUG] 2023-02-28 16:16:17.045 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-28 16:16:17.049 [main] TestNGRunner - In testcase 2
+[INFO ] 2023-02-28 16:16:20.831 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-02-28 16:16:29.670 [main] GoogleApp - In Google Apps 
+[DEBUG] 2023-02-28 16:16:35.727 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-28 16:16:35.732 [main] TestNGRunner - In testcase 3
+[INFO ] 2023-02-28 16:16:38.398 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-02-28 16:16:46.147 [main] GoogleAppVerify - On Google Account
+[INFO ] 2023-02-28 16:16:53.801 [main] GoogleAppVerify - On Google Search
+[INFO ] 2023-02-28 16:17:00.664 [main] GoogleAppVerify - On Google Map
+[INFO ] 2023-02-28 16:17:12.699 [main] GoogleAppVerify - On Google Youtube
+[INFO ] 2023-02-28 16:17:20.038 [main] GoogleAppVerify - On Google play
+[INFO ] 2023-02-28 16:17:26.554 [main] GoogleAppVerify - On Google News
+[INFO ] 2023-02-28 16:17:34.094 [main] GoogleAppVerify - On Gmail
+[INFO ] 2023-02-28 16:17:41.059 [main] GoogleAppVerify - On Drive
+[INFO ] 2023-02-28 16:17:47.620 [main] GoogleAppVerify - On Translate
+[INFO ] 2023-02-28 16:17:55.815 [main] GoogleAppVerify - On Photos
+[DEBUG] 2023-02-28 16:18:00.173 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-28 16:18:00.176 [main] TestNGRunner - In testcase 4
+[INFO ] 2023-02-28 16:18:02.482 [main] Homepage - HomePage is Displayed properly
+[DEBUG] 2023-02-28 16:21:16.243 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-28 16:21:16.252 [main] TestNGRunner - In testcase 1
+[INFO ] 2023-02-28 16:21:18.652 [main] Homepage - HomePage is Displayed properly
+[DEBUG] 2023-02-28 16:21:21.267 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-28 16:21:21.269 [main] TestNGRunner - In testcase 2
+[INFO ] 2023-02-28 16:21:23.571 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-02-28 16:21:31.109 [main] GoogleApp - In Google Apps 
+[DEBUG] 2023-02-28 16:21:33.721 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-28 16:21:33.722 [main] TestNGRunner - In testcase 3
+[INFO ] 2023-02-28 16:21:36.115 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-02-28 16:21:42.520 [main] GoogleAppVerify - On Google Account
+[INFO ] 2023-02-28 16:21:49.140 [main] GoogleAppVerify - On Google Search
+[INFO ] 2023-02-28 16:21:56.381 [main] GoogleAppVerify - On Google Map
+[INFO ] 2023-02-28 16:22:08.737 [main] GoogleAppVerify - On Google Youtube
+[INFO ] 2023-02-28 16:22:14.906 [main] GoogleAppVerify - On Google play
+[INFO ] 2023-02-28 16:22:21.673 [main] GoogleAppVerify - On Google News
+[INFO ] 2023-02-28 16:22:30.827 [main] GoogleAppVerify - On Gmail
+[INFO ] 2023-02-28 16:22:36.920 [main] GoogleAppVerify - On Drive
+[INFO ] 2023-02-28 16:22:43.975 [main] GoogleAppVerify - On Translate
+[INFO ] 2023-02-28 16:22:50.487 [main] GoogleAppVerify - On Photos
+[DEBUG] 2023-02-28 16:22:55.959 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-28 16:22:55.963 [main] TestNGRunner - In testcase 4
+[INFO ] 2023-02-28 16:22:58.525 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-02-28 16:23:17.191 [main] GoogleAppSignUp - logged successfully
+[DEBUG] 2023-02-28 16:23:22.263 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-28 16:23:22.266 [main] TestNGRunner - In testcase 5
+[INFO ] 2023-02-28 16:23:24.753 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-02-28 16:23:39.468 [main] LanguageCheck - Language is set successfully
+[DEBUG] 2023-02-28 16:23:43.592 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-28 16:23:43.595 [main] TestNGRunner - In testcase 6
+[INFO ] 2023-02-28 16:23:46.013 [main] Homepage - HomePage is Displayed properly
+[DEBUG] 2023-02-28 16:23:50.199 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-28 16:23:50.202 [main] TestNGRunner - In testcase 7
+[INFO ] 2023-02-28 16:23:52.622 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-02-28 16:23:59.098 [main] GoogleSearch - search is successful
+[DEBUG] 2023-02-28 16:24:03.703 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-28 16:24:03.707 [main] TestNGRunner - In testcase 7
+[INFO ] 2023-02-28 16:24:06.148 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-02-28 16:24:13.855 [main] GoogleSearch - search is successful
+[DEBUG] 2023-02-28 16:24:18.062 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-28 16:24:18.066 [main] TestNGRunner - In testcase 8
+[INFO ] 2023-02-28 16:24:20.437 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-02-28 16:24:39.626 [main] GoogleProducts - Check ScreenShots
+[DEBUG] 2023-02-28 16:24:43.672 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-28 16:24:43.676 [main] TestNGRunner - In testcase 9
+[INFO ] 2023-02-28 16:24:50.836 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-02-28 16:24:55.524 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-02-28 16:24:57.525 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-02-28 16:25:08.203 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-28 16:25:08.206 [main] TestNGRunner - In testcase 10
+[INFO ] 2023-02-28 16:25:17.950 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-02-28 16:25:22.959 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-02-28 16:25:24.973 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-02-28 16:25:35.499 [main] TotalEmails - Total Emails 
+[DEBUG] 2023-02-28 16:25:43.614 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-28 16:25:43.620 [main] TestNGRunner - In testcase 11
+[INFO ] 2023-02-28 16:25:52.866 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-02-28 16:26:00.095 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-02-28 16:26:02.109 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-02-28 16:26:12.961 [main] StarredEmail - Starred Emails
+[DEBUG] 2023-02-28 16:26:17.813 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-28 16:26:17.818 [main] TestNGRunner - In testcase 12
+[INFO ] 2023-02-28 16:26:26.032 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-02-28 16:26:31.609 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-02-28 16:26:33.611 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-02-28 16:26:51.536 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-28 16:26:51.539 [main] TestNGRunner - In testcase 13
+[INFO ] 2023-02-28 16:26:59.677 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-02-28 16:27:04.458 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-02-28 16:27:06.466 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-02-28 16:27:18.744 [main] ComposeEmail - Email compose working
+[DEBUG] 2023-02-28 16:27:23.266 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-28 16:27:23.270 [main] TestNGRunner - In testcase 14
+[INFO ] 2023-02-28 16:27:30.862 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-02-28 16:27:38.146 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-02-28 16:27:40.156 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-02-28 18:54:47.348 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-28 18:54:47.447 [main] TestNGRunner - In testcase 1
+[INFO ] 2023-02-28 18:54:49.815 [main] Homepage - HomePage is Displayed properly
+[DEBUG] 2023-02-28 19:04:37.931 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-28 19:04:37.952 [main] TestNGRunner - In testcase 1
+[INFO ] 2023-02-28 19:04:40.627 [main] Homepage - HomePage is Displayed properly
+[DEBUG] 2023-02-28 19:06:56.131 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-28 19:06:56.160 [main] TestNGRunner - In testcase 1
+[INFO ] 2023-02-28 19:06:59.104 [main] Homepage - HomePage is Displayed properly
+[DEBUG] 2023-02-28 21:21:50.949 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-28 21:21:51.061 [main] TestNGRunner - In testcase 1
+[INFO ] 2023-02-28 21:21:53.702 [main] Homepage - HomePage is Displayed properly
+[DEBUG] 2023-02-28 21:49:09.384 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-28 21:49:09.396 [main] TestNGRunner - In testcase 1
+[INFO ] 2023-02-28 21:49:11.804 [main] Homepage - HomePage is Displayed properly
+[DEBUG] 2023-02-28 21:49:15.831 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-28 21:49:15.834 [main] TestNGRunner - In testcase 2
+[INFO ] 2023-02-28 21:49:18.469 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-02-28 21:49:26.546 [main] GoogleApp - In Google Apps 
+[DEBUG] 2023-02-28 21:49:29.603 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-28 21:49:29.606 [main] TestNGRunner - In testcase 3
+[INFO ] 2023-02-28 21:49:32.141 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-02-28 21:49:39.327 [main] GoogleAppVerify - On Google Account
+[INFO ] 2023-02-28 21:49:46.070 [main] GoogleAppVerify - On Google Search
+[INFO ] 2023-02-28 21:49:52.889 [main] GoogleAppVerify - On Google Map
+[INFO ] 2023-02-28 21:50:05.827 [main] GoogleAppVerify - On Google Youtube
+[INFO ] 2023-02-28 21:50:13.558 [main] GoogleAppVerify - On Google play
+[INFO ] 2023-02-28 21:50:20.490 [main] GoogleAppVerify - On Google News
+[INFO ] 2023-02-28 21:50:28.115 [main] GoogleAppVerify - On Gmail
+[INFO ] 2023-02-28 21:50:34.368 [main] GoogleAppVerify - On Drive
+[INFO ] 2023-02-28 21:50:41.422 [main] GoogleAppVerify - On Translate
+[INFO ] 2023-02-28 21:50:48.565 [main] GoogleAppVerify - On Photos
+[DEBUG] 2023-02-28 21:50:51.960 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-28 21:50:51.964 [main] TestNGRunner - In testcase 4
+[INFO ] 2023-02-28 21:50:54.279 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-02-28 21:51:11.198 [main] GoogleAppSignUp - logged successfully
+[DEBUG] 2023-02-28 21:51:14.849 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-28 21:51:14.855 [main] TestNGRunner - In testcase 5
+[INFO ] 2023-02-28 21:51:17.312 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-02-28 21:51:31.795 [main] LanguageCheck - Language is set successfully
+[DEBUG] 2023-02-28 21:51:35.511 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-28 21:51:35.514 [main] TestNGRunner - In testcase 6
+[INFO ] 2023-02-28 21:51:37.979 [main] Homepage - HomePage is Displayed properly
+[DEBUG] 2023-02-28 21:51:41.639 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-28 21:51:41.641 [main] TestNGRunner - In testcase 7
+[INFO ] 2023-02-28 21:51:44.012 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-02-28 21:51:51.514 [main] GoogleSearch - search is successful
+[DEBUG] 2023-02-28 21:51:54.994 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-28 21:51:54.997 [main] TestNGRunner - In testcase 7
+[INFO ] 2023-02-28 21:51:57.329 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-02-28 21:52:04.253 [main] GoogleSearch - search is successful
+[DEBUG] 2023-02-28 21:52:08.140 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-28 21:52:08.142 [main] TestNGRunner - In testcase 8
+[INFO ] 2023-02-28 21:52:10.480 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-02-28 21:52:28.351 [main] GoogleProducts - Check ScreenShots
+[DEBUG] 2023-02-28 21:52:30.970 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-28 21:52:30.974 [main] TestNGRunner - In testcase 9
+[INFO ] 2023-02-28 21:52:37.667 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-02-28 21:52:42.155 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-02-28 21:52:44.164 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-02-28 21:52:51.569 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-28 21:52:51.571 [main] TestNGRunner - In testcase 10
+[INFO ] 2023-02-28 21:52:58.916 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-02-28 21:53:05.453 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-02-28 21:53:07.462 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-02-28 21:53:11.459 [main] TotalEmails - Total Emails 
+[DEBUG] 2023-02-28 21:53:17.309 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-28 21:53:17.311 [main] TestNGRunner - In testcase 11
+[INFO ] 2023-02-28 21:53:24.297 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-02-28 21:53:28.994 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-02-28 21:53:30.995 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-02-28 21:53:38.088 [main] StarredEmail - Starred Emails
+[DEBUG] 2023-02-28 21:53:41.762 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-28 21:53:41.766 [main] TestNGRunner - In testcase 12
+[INFO ] 2023-02-28 21:53:48.670 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-02-28 21:53:55.305 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-02-28 21:53:57.308 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-02-28 21:54:11.228 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-28 21:54:11.230 [main] TestNGRunner - In testcase 13
+[INFO ] 2023-02-28 21:54:18.527 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-02-28 21:54:24.709 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-02-28 21:54:26.714 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-02-28 21:54:34.875 [main] ComposeEmail - Email compose working
+[DEBUG] 2023-02-28 21:54:38.084 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-28 21:54:38.086 [main] TestNGRunner - In testcase 14
+[INFO ] 2023-02-28 21:54:44.700 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-02-28 21:54:48.899 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-02-28 21:54:50.901 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-02-28 21:54:58.219 [main] SendEmail - Added to
+[INFO ] 2023-02-28 21:55:01.086 [main] SendEmail - Added cc
+[INFO ] 2023-02-28 21:55:03.662 [main] SendEmail - Added bcc
+[INFO ] 2023-02-28 21:55:10.542 [main] SendEmail - Email Sent
+[DEBUG] 2023-02-28 21:55:13.150 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-28 21:55:13.151 [main] TestNGRunner - In testcase 15
+[INFO ] 2023-02-28 21:55:19.526 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-02-28 21:55:25.952 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-02-28 21:55:27.966 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-02-28 21:55:33.153 [main] ReceivedMails - Checking received mail
+[DEBUG] 2023-02-28 21:55:39.553 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-28 21:55:39.555 [main] TestNGRunner - In testcase 16
+[INFO ] 2023-02-28 21:55:46.650 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-02-28 21:55:53.430 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-02-28 21:55:55.445 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-02-28 21:56:03.449 [main] MailsWithAttachments - Emails with attachments found
+[DEBUG] 2023-02-28 21:56:06.942 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-28 21:56:06.944 [main] TestNGRunner - In testcase 17
+[INFO ] 2023-02-28 21:56:13.505 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-02-28 21:56:18.155 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-02-28 21:56:20.162 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-02-28 21:56:31.463 [main] Settings - Settings on Gmail are present
+[DEBUG] 2023-02-28 21:56:34.598 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-28 21:56:34.600 [main] TestNGRunner - In testcase 18
+[INFO ] 2023-02-28 21:56:42.348 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-02-28 21:56:49.067 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-02-28 21:56:51.080 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-02-28 21:57:07.749 [main] GmailLabel - New Label has been created
+[DEBUG] 2023-02-28 21:57:11.223 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-28 21:57:11.224 [main] TestNGRunner - In testcase 19
+[INFO ] 2023-02-28 21:57:20.669 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-02-28 21:57:27.319 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-02-28 21:57:29.320 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-02-28 21:57:53.003 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-02-28 21:57:53.004 [main] TestNGRunner - In testcase 20
+[INFO ] 2023-02-28 21:57:59.296 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-02-28 21:58:05.820 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-02-28 21:58:07.824 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-02-28 21:58:17.017 [main] SignOut - Gmail sign out
+[DEBUG] 2023-03-02 15:23:11.988 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-02 15:23:12.107 [main] TestNGRunner - In testcase 1, Display Google HomePage
+[INFO ] 2023-03-02 15:23:15.313 [main] Homepage - HomePage is Displayed properly
+[DEBUG] 2023-03-02 15:24:04.820 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-02 15:24:04.841 [main] TestNGRunner - In testcase 1, Display Google HomePage
+[INFO ] 2023-03-02 15:24:07.758 [main] Homepage - HomePage is Displayed properly
+[DEBUG] 2023-03-02 15:32:12.317 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-02 15:32:12.348 [main] TestNGRunner - In testcase 1, Display Google HomePage
+[INFO ] 2023-03-02 15:32:16.780 [main] Homepage - HomePage is Displayed properly
+[DEBUG] 2023-03-02 15:32:24.829 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-02 15:32:24.833 [main] TestNGRunner - In testcase 2, Perform Click on Google App
+[INFO ] 2023-03-02 15:32:27.912 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-03-02 15:32:38.270 [main] GoogleApp - In Google Apps 
+[DEBUG] 2023-03-02 15:32:44.215 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-02 15:32:44.223 [main] TestNGRunner - In testcase 3, Verify Google Apps
+[DEBUG] 2023-03-02 16:17:39.285 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-02 16:17:39.308 [main] TestNGRunner - In testcase 1, Display Google HomePage
+[INFO ] 2023-03-02 16:17:42.239 [main] Homepage - HomePage is Displayed properly
+[DEBUG] 2023-03-02 16:17:46.795 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-02 16:17:46.799 [main] TestNGRunner - In testcase 2, Perform Click on Google App
+[INFO ] 2023-03-02 16:17:49.298 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-03-02 16:17:57.233 [main] GoogleApp - In Google Apps 
+[DEBUG] 2023-03-02 16:18:01.524 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-02 16:18:01.531 [main] TestNGRunner - In testcase 3, Verify Google Apps
+[INFO ] 2023-03-02 16:18:04.029 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-03-02 16:18:10.499 [main] GoogleAppVerify - On Google Account
+[INFO ] 2023-03-02 16:18:18.201 [main] GoogleAppVerify - On Google Search
+[INFO ] 2023-03-02 16:18:25.921 [main] GoogleAppVerify - On Google Map
+[INFO ] 2023-03-02 16:18:38.512 [main] GoogleAppVerify - On Google Youtube
+[INFO ] 2023-03-02 16:18:44.644 [main] GoogleAppVerify - On Google play
+[INFO ] 2023-03-02 16:18:51.130 [main] GoogleAppVerify - On Google News
+[INFO ] 2023-03-02 16:18:58.929 [main] GoogleAppVerify - On Gmail
+[INFO ] 2023-03-02 16:19:05.158 [main] GoogleAppVerify - On Drive
+[INFO ] 2023-03-02 16:19:12.102 [main] GoogleAppVerify - On Translate
+[INFO ] 2023-03-02 16:19:18.674 [main] GoogleAppVerify - On Photos
+[DEBUG] 2023-03-02 16:19:26.445 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-02 16:19:26.452 [main] TestNGRunner - In testcase 4, Verify Google App SignUp 
+[INFO ] 2023-03-02 16:19:28.849 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-03-02 16:19:47.549 [main] GoogleAppSignUp - logged successfully
+[DEBUG] 2023-03-02 16:19:51.908 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-02 16:19:51.911 [main] TestNGRunner - In testcase 5, Change Google lang
+[INFO ] 2023-03-02 16:19:54.303 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-03-02 16:20:08.836 [main] LanguageCheck - Language is set successfully
+[DEBUG] 2023-03-02 16:20:12.547 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-02 16:20:12.551 [main] TestNGRunner - In testcase 6,Google browser open and close 
+[INFO ] 2023-03-02 16:20:14.967 [main] Homepage - HomePage is Displayed properly
+[DEBUG] 2023-03-02 16:20:19.621 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-02 16:20:19.625 [main] TestNGRunner - In testcase 7, Google search
+[INFO ] 2023-03-02 16:20:22.139 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-03-02 16:20:30.915 [main] GoogleSearch - search is successful
+[DEBUG] 2023-03-02 16:20:35.295 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-02 16:20:35.299 [main] TestNGRunner - In testcase 7, Google search
+[INFO ] 2023-03-02 16:20:37.774 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-03-02 16:20:45.909 [main] GoogleSearch - search is successful
+[DEBUG] 2023-03-02 16:20:50.404 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-02 16:20:50.408 [main] TestNGRunner - In testcase 8,Verify All google product
+[INFO ] 2023-03-02 16:20:52.894 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-03-02 16:21:16.626 [main] GoogleProducts - Check ScreenShots
+[DEBUG] 2023-03-02 16:21:19.318 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-02 16:21:19.320 [main] TestNGRunner - In testcase 9, Verify Gmail login
+[INFO ] 2023-03-02 16:21:26.436 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-03-02 16:21:33.205 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-03-02 16:21:35.208 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-03-02 16:21:42.436 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-02 16:21:42.438 [main] TestNGRunner - In testcase 10, Display total read Emails
+[INFO ] 2023-03-02 16:21:49.275 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-03-02 16:21:56.194 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-03-02 16:21:58.200 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-03-02 16:22:02.848 [main] TotalEmails - Total Emails 
+[DEBUG] 2023-03-02 16:22:08.776 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-02 16:22:08.778 [main] TestNGRunner - In testcase 11,Display total starred Emails
+[INFO ] 2023-03-02 16:22:15.497 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-03-02 16:22:21.202 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-03-02 16:22:23.206 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-03-02 16:22:30.553 [main] StarredEmail - Starred Emails
+[DEBUG] 2023-03-02 16:22:33.964 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-02 16:22:33.966 [main] TestNGRunner - In testcase 12, Display total Unread and Read Emails
+[INFO ] 2023-03-02 16:22:40.996 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-03-02 16:22:45.874 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-03-02 16:22:47.884 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-03-02 16:23:01.008 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-02 16:23:01.011 [main] TestNGRunner - In testcase 13, Compose Email
+[INFO ] 2023-03-02 16:23:07.882 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-03-02 16:23:14.272 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-03-02 16:23:16.285 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-03-02 16:23:25.213 [main] ComposeEmail - Email compose working
+[DEBUG] 2023-03-02 16:23:29.129 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-02 16:23:29.131 [main] TestNGRunner - In testcase 14, Send Email successfully
+[INFO ] 2023-03-02 16:23:35.771 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-03-02 16:23:40.144 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-03-02 16:23:42.148 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-03-02 16:23:48.733 [main] SendEmail - Added to
+[INFO ] 2023-03-02 16:23:51.524 [main] SendEmail - Added cc
+[INFO ] 2023-03-02 16:23:53.779 [main] SendEmail - Added bcc
+[INFO ] 2023-03-02 16:24:00.504 [main] SendEmail - Email Sent
+[DEBUG] 2023-03-02 16:24:03.190 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-02 16:24:03.192 [main] TestNGRunner - In testcase 15, Check received Emails
+[INFO ] 2023-03-02 16:24:09.588 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-03-02 16:24:16.130 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-03-02 16:24:18.138 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-03-02 16:24:22.226 [main] ReceivedMails - Checking received mail
+[DEBUG] 2023-03-02 16:24:29.698 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-02 16:24:29.700 [main] TestNGRunner - In testcase 16 , Find Emails with Attachments
+[INFO ] 2023-03-02 16:24:36.594 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-03-02 16:24:41.738 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-03-02 16:24:43.740 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-03-02 16:24:50.084 [main] MailsWithAttachments - Emails with attachments found
+[DEBUG] 2023-03-02 16:24:53.805 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-02 16:24:53.807 [main] TestNGRunner - In testcase 17, Verify Setting Option
+[INFO ] 2023-03-02 16:25:00.612 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-03-02 16:25:05.088 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-03-02 16:25:07.097 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-03-02 16:25:16.006 [main] Settings - Settings on Gmail are present
+[DEBUG] 2023-03-02 16:25:19.428 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-02 16:25:19.430 [main] TestNGRunner - In testcase 18
+[INFO ] 2023-03-02 16:25:28.093 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-03-02 16:25:32.518 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-03-02 16:25:34.524 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-03-02 16:25:51.952 [main] GmailLabel - New Label has been created
+[DEBUG] 2023-03-02 16:25:54.936 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-02 16:25:54.937 [main] TestNGRunner - In testcase 19 ,Move Email to Folder
+[INFO ] 2023-03-02 16:26:01.517 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-03-02 16:26:05.926 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-03-02 16:26:07.931 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-03-02 16:26:31.360 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-02 16:26:31.361 [main] TestNGRunner - In testcase 20, Verify Gmail Logout
+[INFO ] 2023-03-02 16:26:38.308 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-03-02 16:26:42.648 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-03-02 16:26:44.651 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-03-02 16:26:53.206 [main] SignOut - Gmail sign out
+[DEBUG] 2023-03-03 12:31:38.770 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-03 12:31:38.781 [main] TestNGRunner - In testcase 19 ,Move Email to Folder
+[INFO ] 2023-03-03 12:31:45.516 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-03-03 12:31:50.875 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-03-03 12:31:52.884 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-03-03 12:32:09.541 [main] MoveToFolder - Email move to folder failed
+[DEBUG] 2023-03-03 13:53:44.240 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-03 13:53:44.253 [main] TestNGRunner - In testcase 1, Display Google HomePage
+[INFO ] 2023-03-03 13:53:46.873 [main] Homepage - HomePage is Displayed properly
+[DEBUG] 2023-03-03 13:53:49.836 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-03 13:53:49.838 [main] TestNGRunner - In testcase 2, Perform Click on Google App
+[INFO ] 2023-03-03 13:53:52.242 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-03-03 13:53:59.740 [main] GoogleApp - In Google Apps 
+[DEBUG] 2023-03-03 13:54:02.533 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-03 13:54:02.536 [main] TestNGRunner - In testcase 3, Verify Google Apps
+[INFO ] 2023-03-03 13:54:04.944 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-03-03 13:54:10.944 [main] GoogleAppVerify - On Google Account
+[INFO ] 2023-03-03 13:54:17.708 [main] GoogleAppVerify - On Google Search
+[INFO ] 2023-03-03 13:54:25.545 [main] GoogleAppVerify - On Google Map
+[INFO ] 2023-03-03 13:54:38.371 [main] GoogleAppVerify - On Google Youtube
+[INFO ] 2023-03-03 13:54:45.637 [main] GoogleAppVerify - On Google play
+[INFO ] 2023-03-03 13:54:51.840 [main] GoogleAppVerify - On Google News
+[INFO ] 2023-03-03 13:54:59.646 [main] GoogleAppVerify - On Gmail
+[INFO ] 2023-03-03 13:55:05.846 [main] GoogleAppVerify - On Drive
+[INFO ] 2023-03-03 13:55:12.811 [main] GoogleAppVerify - On Translate
+[INFO ] 2023-03-03 13:55:20.561 [main] GoogleAppVerify - On Photos
+[DEBUG] 2023-03-03 13:55:24.447 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-03 13:55:24.449 [main] TestNGRunner - In testcase 4, Verify Google App SignUp 
+[INFO ] 2023-03-03 13:55:26.759 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-03-03 13:55:43.953 [main] GoogleAppSignUp - logged successfully
+[DEBUG] 2023-03-03 13:55:47.050 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-03 13:55:47.053 [main] TestNGRunner - In testcase 5, Change Google lang
+[INFO ] 2023-03-03 13:55:49.433 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-03-03 13:56:04.212 [main] LanguageCheck - Language is set successfully
+[DEBUG] 2023-03-03 13:56:06.901 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-03 13:56:06.903 [main] TestNGRunner - In testcase 6,Google browser open and close 
+[INFO ] 2023-03-03 13:56:09.251 [main] Homepage - HomePage is Displayed properly
+[DEBUG] 2023-03-03 13:56:13.215 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-03 13:56:13.217 [main] TestNGRunner - In testcase 7, Google search
+[INFO ] 2023-03-03 13:56:15.584 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-03-03 13:56:22.647 [main] GoogleSearch - search is successful
+[DEBUG] 2023-03-03 13:56:25.593 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-03 13:56:25.595 [main] TestNGRunner - In testcase 7, Google search
+[INFO ] 2023-03-03 13:56:27.979 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-03-03 13:56:33.879 [main] GoogleSearch - search is successful
+[DEBUG] 2023-03-03 13:56:37.903 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-03 13:56:37.906 [main] TestNGRunner - In testcase 8,Verify All google product
+[INFO ] 2023-03-03 13:56:40.224 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-03-03 13:56:58.346 [main] GoogleProducts - Check ScreenShots
+[DEBUG] 2023-03-03 13:57:01.174 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-03 13:57:01.176 [main] TestNGRunner - In testcase 9, Verify Gmail login
+[INFO ] 2023-03-03 13:57:07.855 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-03-03 13:57:12.565 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-03-03 13:57:14.568 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-03-03 13:57:21.893 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-03 13:57:21.895 [main] TestNGRunner - In testcase 10, Display total read Emails
+[INFO ] 2023-03-03 13:57:28.536 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-03-03 13:57:33.135 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-03-03 13:57:35.143 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-03-03 13:57:40.303 [main] TotalEmails - Total Emails 
+[DEBUG] 2023-03-03 13:57:46.308 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-03 13:57:46.311 [main] TestNGRunner - In testcase 11,Display total starred Emails
+[INFO ] 2023-03-03 13:57:53.133 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-03-03 13:57:59.980 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-03-03 13:58:01.985 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-03-03 13:58:07.707 [main] StarredEmail - Starred Emails
+[DEBUG] 2023-03-03 13:58:11.346 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-03 13:58:11.348 [main] TestNGRunner - In testcase 12, Display total Unread and Read Emails
+[INFO ] 2023-03-03 13:58:18.515 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-03-03 13:58:25.176 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-03-03 13:58:27.180 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-03-03 13:58:39.891 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-03 13:58:39.893 [main] TestNGRunner - In testcase 13, Compose Email
+[INFO ] 2023-03-03 13:58:47.157 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-03-03 13:58:54.052 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-03-03 13:58:56.066 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-03-03 13:59:05.416 [main] ComposeEmail - Email compose working
+[DEBUG] 2023-03-03 13:59:08.682 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-03 13:59:08.684 [main] TestNGRunner - In testcase 14, Send Email successfully
+[INFO ] 2023-03-03 13:59:15.517 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-03-03 13:59:22.632 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-03-03 13:59:24.640 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-03-03 13:59:31.292 [main] SendEmail - Added to
+[INFO ] 2023-03-03 13:59:33.942 [main] SendEmail - Added cc
+[INFO ] 2023-03-03 13:59:36.279 [main] SendEmail - Added bcc
+[INFO ] 2023-03-03 13:59:42.825 [main] SendEmail - Email Sent
+[DEBUG] 2023-03-03 13:59:45.578 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-03 13:59:45.579 [main] TestNGRunner - In testcase 15, Check received Emails
+[INFO ] 2023-03-03 13:59:51.554 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-03-03 13:59:56.781 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-03-03 13:59:58.795 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-03-03 14:00:02.457 [main] ReceivedMails - Checking received mail
+[DEBUG] 2023-03-03 14:00:09.682 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-03 14:00:09.684 [main] TestNGRunner - In testcase 16 , Find Emails with Attachments
+[INFO ] 2023-03-03 14:00:17.391 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-03-03 14:00:21.745 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-03-03 14:00:23.753 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-03-03 14:00:29.799 [main] MailsWithAttachments - Emails with attachments found
+[DEBUG] 2023-03-03 14:00:33.222 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-03 14:00:33.224 [main] TestNGRunner - In testcase 17, Verify Setting Option
+[INFO ] 2023-03-03 14:00:40.058 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-03-03 14:00:47.067 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-03-03 14:00:49.075 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-03-03 14:00:57.059 [main] Settings - Settings on Gmail are present
+[DEBUG] 2023-03-03 14:01:00.903 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-03 14:01:00.905 [main] TestNGRunner - In testcase 18
+[INFO ] 2023-03-03 14:01:08.217 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-03-03 14:01:12.844 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-03-03 14:01:14.851 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-03-03 14:01:31.731 [main] GmailLabel - New Label has been created
+[DEBUG] 2023-03-03 14:01:34.574 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-03 14:01:34.574 [main] TestNGRunner - In testcase 19 ,Move Email to Folder
+[INFO ] 2023-03-03 14:01:40.652 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-03-03 14:01:46.019 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-03-03 14:01:48.027 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-03-03 14:02:11.932 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-03 14:02:11.934 [main] TestNGRunner - In testcase 20, Verify Gmail Logout
+[INFO ] 2023-03-03 14:02:18.367 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-03-03 14:02:23.403 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-03-03 14:02:25.478 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-03-03 14:02:34.677 [main] SignOut - Gmail sign out
+[DEBUG] 2023-03-03 14:05:50.054 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-03 14:05:50.102 [main] TestNGRunner - In testcase 1, Display Google HomePage
+[INFO ] 2023-03-03 14:05:53.509 [main] Homepage - HomePage is Displayed properly
+[DEBUG] 2023-03-03 14:06:00.768 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-03 14:06:00.771 [main] TestNGRunner - In testcase 2, Perform Click on Google App
+[INFO ] 2023-03-03 14:06:03.401 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-03-03 14:06:11.749 [main] GoogleApp - In Google Apps 
+[DEBUG] 2023-03-03 14:06:15.325 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-03 14:06:15.328 [main] TestNGRunner - In testcase 3, Verify Google Apps
+[INFO ] 2023-03-03 14:06:17.716 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-03-03 14:06:24.497 [main] GoogleAppVerify - On Google Account
+[INFO ] 2023-03-03 14:06:31.222 [main] GoogleAppVerify - On Google Search
+[INFO ] 2023-03-03 14:06:37.842 [main] GoogleAppVerify - On Google Map
+[INFO ] 2023-03-03 14:06:49.843 [main] GoogleAppVerify - On Google Youtube
+[INFO ] 2023-03-03 14:06:56.972 [main] GoogleAppVerify - On Google play
+[INFO ] 2023-03-03 14:07:03.066 [main] GoogleAppVerify - On Google News
+[INFO ] 2023-03-03 14:07:09.909 [main] GoogleAppVerify - On Gmail
+[INFO ] 2023-03-03 14:07:17.081 [main] GoogleAppVerify - On Drive
+[INFO ] 2023-03-03 14:07:23.933 [main] GoogleAppVerify - On Translate
+[INFO ] 2023-03-03 14:07:31.074 [main] GoogleAppVerify - On Photos
+[DEBUG] 2023-03-03 14:07:35.141 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-03 14:07:35.143 [main] TestNGRunner - In testcase 4, Verify Google App SignUp 
+[INFO ] 2023-03-03 14:07:37.464 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-03-03 14:07:53.809 [main] GoogleAppSignUp - logged successfully
+[DEBUG] 2023-03-03 14:07:57.029 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-03 14:07:57.032 [main] TestNGRunner - In testcase 5, Change Google lang
+[INFO ] 2023-03-03 14:07:59.442 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-03-03 14:08:14.108 [main] LanguageCheck - Language is set successfully
+[DEBUG] 2023-03-03 14:08:17.997 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-03 14:08:18.000 [main] TestNGRunner - In testcase 6,Google browser open and close 
+[INFO ] 2023-03-03 14:08:20.368 [main] Homepage - HomePage is Displayed properly
+[DEBUG] 2023-03-03 14:08:24.233 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-03 14:08:24.234 [main] TestNGRunner - In testcase 7, Google search
+[INFO ] 2023-03-03 14:08:26.601 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-03-03 14:08:32.902 [main] GoogleSearch - search is successful
+[DEBUG] 2023-03-03 14:08:36.141 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-03 14:08:36.144 [main] TestNGRunner - In testcase 7, Google search
+[INFO ] 2023-03-03 14:08:38.510 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-03-03 14:08:47.393 [main] GoogleSearch - search is successful
+[DEBUG] 2023-03-03 14:08:50.872 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-03 14:08:50.874 [main] TestNGRunner - In testcase 8,Verify All google product
+[INFO ] 2023-03-03 14:08:53.260 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-03-03 14:09:12.407 [main] GoogleProducts - Check ScreenShots
+[DEBUG] 2023-03-03 14:09:15.330 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-03 14:09:15.332 [main] TestNGRunner - In testcase 9, Verify Gmail login
+[INFO ] 2023-03-03 14:09:22.456 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-03-03 14:09:29.169 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-03-03 14:09:31.174 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-03-03 14:09:39.995 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-03 14:09:39.997 [main] TestNGRunner - In testcase 10, Display total read Emails
+[INFO ] 2023-03-03 14:09:47.173 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-03-03 14:09:53.811 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-03-03 14:09:55.827 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-03-03 14:09:59.988 [main] TotalEmails - Total Emails 
+[DEBUG] 2023-03-03 14:10:07.350 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-03 14:10:07.353 [main] TestNGRunner - In testcase 11,Display total starred Emails
+[INFO ] 2023-03-03 14:10:14.195 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-03-03 14:10:21.103 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-03-03 14:10:23.103 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-03-03 14:10:29.592 [main] StarredEmail - Starred Emails
+[DEBUG] 2023-03-03 14:10:33.601 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-03 14:10:33.607 [main] TestNGRunner - In testcase 12, Display total Unread and Read Emails
+[INFO ] 2023-03-03 14:10:40.487 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-03-03 14:10:47.648 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-03-03 14:10:49.655 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-03-03 14:11:01.293 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-03 14:11:01.295 [main] TestNGRunner - In testcase 13, Compose Email
+[INFO ] 2023-03-03 14:11:08.076 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-03-03 14:11:12.707 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-03-03 14:11:14.717 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-03-03 14:11:24.858 [main] ComposeEmail - Email compose working
+[DEBUG] 2023-03-03 14:11:27.907 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-03 14:11:27.909 [main] TestNGRunner - In testcase 14, Send Email successfully
+[INFO ] 2023-03-03 14:11:34.453 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-03-03 14:11:38.917 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-03-03 14:11:40.922 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-03-03 14:11:49.174 [main] SendEmail - Added to
+[INFO ] 2023-03-03 14:11:51.508 [main] SendEmail - Added cc
+[INFO ] 2023-03-03 14:11:53.890 [main] SendEmail - Added bcc
+[INFO ] 2023-03-03 14:12:00.557 [main] SendEmail - Email Sent
+[DEBUG] 2023-03-03 14:12:03.339 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-03 14:12:03.341 [main] TestNGRunner - In testcase 15, Check received Emails
+[INFO ] 2023-03-03 14:12:09.551 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-03-03 14:12:15.169 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-03-03 14:12:17.175 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-03-03 14:12:23.607 [main] ReceivedMails - Checking received mail
+[DEBUG] 2023-03-03 14:12:30.367 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-03 14:12:30.368 [main] TestNGRunner - In testcase 16 , Find Emails with Attachments
+[INFO ] 2023-03-03 14:12:37.191 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-03-03 14:12:44.333 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-03-03 14:12:46.335 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-03-03 14:12:52.500 [main] MailsWithAttachments - Emails with attachments found
+[DEBUG] 2023-03-03 14:12:56.296 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-03 14:12:56.297 [main] TestNGRunner - In testcase 17, Verify Setting Option
+[INFO ] 2023-03-03 14:13:03.091 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-03-03 14:13:08.761 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-03-03 14:13:10.763 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-03-03 14:13:18.965 [main] Settings - Settings on Gmail are present
+[DEBUG] 2023-03-03 14:13:22.964 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-03 14:13:22.967 [main] TestNGRunner - In testcase 18
+[INFO ] 2023-03-03 14:13:30.547 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-03-03 14:13:35.044 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-03-03 14:13:37.046 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-03-03 14:13:54.951 [main] GmailLabel - New Label has been created
+[DEBUG] 2023-03-03 14:13:57.581 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-03 14:13:57.582 [main] TestNGRunner - In testcase 19 ,Move Email to Folder
+[INFO ] 2023-03-03 14:14:04.094 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-03-03 14:14:10.728 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-03-03 14:14:12.731 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-03-03 14:14:40.339 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-03 14:14:40.340 [main] TestNGRunner - In testcase 20, Verify Gmail Logout
+[INFO ] 2023-03-03 14:14:46.186 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-03-03 14:14:51.293 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-03-03 14:14:53.294 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-03-03 14:15:01.656 [main] SignOut - Gmail sign out
+[DEBUG] 2023-03-07 10:34:05.499 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-07 10:34:05.525 [main] TestNGRunner - In testcase 19 ,Move Email to Folder
+[INFO ] 2023-03-07 10:34:14.020 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-03-07 10:34:19.557 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-03-07 10:34:21.572 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-03-07 10:43:55.675 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-07 10:43:55.695 [main] TestNGRunner - In testcase 19 ,Move Email to Folder
+[INFO ] 2023-03-07 10:44:04.045 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-03-07 10:44:08.982 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-03-07 10:44:10.996 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-03-07 10:48:58.481 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-07 10:48:58.491 [main] TestNGRunner - In testcase 19 ,Move Email to Folder
+[INFO ] 2023-03-07 10:49:05.551 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-03-07 10:49:10.593 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-03-07 10:49:12.603 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-03-07 10:50:26.883 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-07 10:50:26.894 [main] TestNGRunner - In testcase 19 ,Move Email to Folder
+[INFO ] 2023-03-07 10:50:32.890 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-03-07 10:50:38.383 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-03-07 10:50:40.393 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-03-07 11:03:16.721 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-07 11:03:16.733 [main] TestNGRunner - In testcase 19 ,Move Email to Folder
+[INFO ] 2023-03-07 11:03:23.359 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-03-07 11:03:29.790 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-03-07 11:03:31.796 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-03-07 12:59:48.894 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-07 12:59:48.907 [main] TestNGRunner - In testcase 19 ,Move Email to Folder
+[INFO ] 2023-03-07 12:59:55.717 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-03-07 13:00:00.084 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-03-07 13:00:02.089 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-03-07 13:05:52.570 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-07 13:05:52.578 [main] TestNGRunner - In testcase 19 ,Move Email to Folder
+[INFO ] 2023-03-07 13:05:58.419 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-03-07 13:06:02.995 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-03-07 13:06:05.001 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-03-07 13:07:05.329 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-07 13:07:05.337 [main] TestNGRunner - In testcase 19 ,Move Email to Folder
+[INFO ] 2023-03-07 13:07:11.348 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-03-07 13:07:15.974 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-03-07 13:07:17.987 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-03-07 13:07:58.253 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-07 13:07:58.262 [main] TestNGRunner - In testcase 1, Display Google HomePage
+[INFO ] 2023-03-07 13:08:00.646 [main] Homepage - HomePage is Displayed properly
+[DEBUG] 2023-03-07 13:08:03.321 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-07 13:08:03.324 [main] TestNGRunner - In testcase 2, Perform Click on Google App
+[INFO ] 2023-03-07 13:08:05.776 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-03-07 13:08:13.615 [main] GoogleApp - In Google Apps 
+[DEBUG] 2023-03-07 13:08:16.527 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-07 13:08:16.532 [main] TestNGRunner - In testcase 3, Verify Google Apps
+[INFO ] 2023-03-07 13:08:18.870 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-03-07 13:08:24.838 [main] GoogleAppVerify - On Google Account
+[INFO ] 2023-03-07 13:08:31.954 [main] GoogleAppVerify - On Google Search
+[INFO ] 2023-03-07 13:08:38.987 [main] GoogleAppVerify - On Google Map
+[INFO ] 2023-03-07 13:08:51.109 [main] GoogleAppVerify - On Google Youtube
+[INFO ] 2023-03-07 13:08:57.042 [main] GoogleAppVerify - On Google play
+[INFO ] 2023-03-07 13:09:02.750 [main] GoogleAppVerify - On Google News
+[INFO ] 2023-03-07 13:09:09.809 [main] GoogleAppVerify - On Gmail
+[INFO ] 2023-03-07 13:09:15.902 [main] GoogleAppVerify - On Drive
+[INFO ] 2023-03-07 13:09:22.345 [main] GoogleAppVerify - On Translate
+[INFO ] 2023-03-07 13:09:29.156 [main] GoogleAppVerify - On Photos
+[DEBUG] 2023-03-07 13:09:32.126 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-07 13:09:32.128 [main] TestNGRunner - In testcase 4, Verify Google App SignUp 
+[INFO ] 2023-03-07 13:09:34.427 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-03-07 13:09:50.343 [main] GoogleAppSignUp - logged successfully
+[DEBUG] 2023-03-07 13:09:53.448 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-07 13:09:53.451 [main] TestNGRunner - In testcase 5, Change Google lang
+[INFO ] 2023-03-07 13:09:55.751 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-03-07 13:10:09.450 [main] LanguageCheck - Language is set successfully
+[DEBUG] 2023-03-07 13:10:11.861 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-07 13:10:11.863 [main] TestNGRunner - In testcase 6,Google browser open and close 
+[INFO ] 2023-03-07 13:10:14.120 [main] Homepage - HomePage is Displayed properly
+[DEBUG] 2023-03-07 13:10:16.926 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-07 13:10:16.928 [main] TestNGRunner - In testcase 7, Google search
+[INFO ] 2023-03-07 13:10:19.223 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-03-07 13:10:25.667 [main] GoogleSearch - search is successful
+[DEBUG] 2023-03-07 13:10:28.165 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-07 13:10:28.167 [main] TestNGRunner - In testcase 7, Google search
+[INFO ] 2023-03-07 13:10:30.457 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-03-07 13:10:36.529 [main] GoogleSearch - search is successful
+[DEBUG] 2023-03-07 13:10:39.166 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-07 13:10:39.168 [main] TestNGRunner - In testcase 8,Verify All google product
+[INFO ] 2023-03-07 13:10:41.427 [main] Homepage - HomePage is Displayed properly
+[INFO ] 2023-03-07 13:10:55.733 [main] GoogleProducts - Check ScreenShots
+[DEBUG] 2023-03-07 13:10:58.221 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-07 13:10:58.222 [main] TestNGRunner - In testcase 9, Verify Gmail login
+[INFO ] 2023-03-07 13:11:03.918 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-03-07 13:11:08.230 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-03-07 13:11:10.240 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-03-07 13:11:15.721 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-07 13:11:15.721 [main] TestNGRunner - In testcase 10, Display total read Emails
+[INFO ] 2023-03-07 13:11:23.497 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-03-07 13:11:27.917 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-03-07 13:11:29.928 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-03-07 13:11:33.424 [main] TotalEmails - Total Emails 
+[DEBUG] 2023-03-07 13:11:38.397 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-07 13:11:38.399 [main] TestNGRunner - In testcase 11,Display total starred Emails
+[INFO ] 2023-03-07 13:11:44.583 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-03-07 13:11:49.346 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-03-07 13:11:51.352 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-03-07 13:11:57.659 [main] StarredEmail - Starred Emails
+[DEBUG] 2023-03-07 13:12:00.519 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-07 13:12:00.521 [main] TestNGRunner - In testcase 12, Display total Unread and Read Emails
+[INFO ] 2023-03-07 13:12:06.676 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-03-07 13:12:12.054 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-03-07 13:12:14.062 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-03-07 13:12:23.865 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-07 13:12:23.866 [main] TestNGRunner - In testcase 13, Compose Email
+[INFO ] 2023-03-07 13:12:30.219 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-03-07 13:12:34.799 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-03-07 13:12:36.811 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-03-07 13:12:43.355 [main] ComposeEmail - Email compose working
+[DEBUG] 2023-03-07 13:12:46.236 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-07 13:12:46.239 [main] TestNGRunner - In testcase 14, Send Email successfully
+[INFO ] 2023-03-07 13:12:52.357 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-03-07 13:12:57.134 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-03-07 13:12:59.138 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-03-07 13:13:05.353 [main] SendEmail - Added to
+[INFO ] 2023-03-07 13:13:07.668 [main] SendEmail - Added cc
+[INFO ] 2023-03-07 13:13:09.925 [main] SendEmail - Added bcc
+[INFO ] 2023-03-07 13:13:16.316 [main] SendEmail - Email Sent
+[DEBUG] 2023-03-07 13:13:18.876 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-07 13:13:18.878 [main] TestNGRunner - In testcase 15, Check received Emails
+[INFO ] 2023-03-07 13:13:24.787 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-03-07 13:13:30.500 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-03-07 13:13:32.508 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-03-07 13:13:35.333 [main] ReceivedMails - Checking received mail
+[DEBUG] 2023-03-07 13:13:41.356 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-07 13:13:41.358 [main] TestNGRunner - In testcase 16 , Find Emails with Attachments
+[INFO ] 2023-03-07 13:13:47.485 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-03-07 13:13:53.035 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-03-07 13:13:55.043 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-03-07 13:14:00.813 [main] MailsWithAttachments - Emails with attachments found
+[DEBUG] 2023-03-07 13:14:03.826 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-07 13:14:03.827 [main] TestNGRunner - In testcase 17, Verify Setting Option
+[INFO ] 2023-03-07 13:14:09.796 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-03-07 13:14:14.462 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-03-07 13:14:16.466 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-03-07 13:14:27.969 [main] Settings - Settings on Gmail are present
+[DEBUG] 2023-03-07 13:14:31.192 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-07 13:14:31.194 [main] TestNGRunner - In testcase 18
+[INFO ] 2023-03-07 13:14:38.546 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-03-07 13:14:43.035 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-03-07 13:14:45.048 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-03-07 13:15:04.856 [main] GmailLabel - New Label has been created
+[DEBUG] 2023-03-07 13:15:08.258 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-07 13:15:08.260 [main] TestNGRunner - In testcase 19 ,Move Email to Folder
+[INFO ] 2023-03-07 13:15:14.852 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-03-07 13:15:19.350 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-03-07 13:15:21.352 [main] GmailLogin -  Gmail Logged in successfully
+[DEBUG] 2023-03-07 13:15:45.438 [main] TestNGRunner - chrome is launched Successfully
+[INFO ] 2023-03-07 13:15:45.442 [main] TestNGRunner - In testcase 20, Verify Gmail Logout
+[INFO ] 2023-03-07 13:15:51.928 [main] GmailLogin - Entered Valid EmailId
+[INFO ] 2023-03-07 13:15:56.497 [main] GmailLogin - Entered Valid Password
+[INFO ] 2023-03-07 13:15:58.498 [main] GmailLogin -  Gmail Logged in successfully
+[INFO ] 2023-03-07 13:16:06.322 [main] SignOut - Gmail sign out
